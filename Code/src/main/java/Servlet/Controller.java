@@ -281,8 +281,6 @@ public class Controller extends HttpServlet {
 		// BILL CONTROLLER PART
 		// BILL CONTROLLER PART
 		// BILL CONTROLLER PART
-		// BILL CONTROLLER PART
-		// BILL CONTROLLER PART
 
 		if (action.equals("billview")) {
 
